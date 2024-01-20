@@ -36,11 +36,12 @@ int main(){ // Allman style
     // width= 50.78;
 
     // >> stream extraction operator
-    //cin >> length;
-    //cin >> width;
+    
     cout << "Enter length and width: \n";
+    cin >> length;
+    cin >> width;
     // escape sequences: '\n', '\t'
-    cin >> length >> width;
+    // cin >> length >> width;
 
     // step2: use formulas
     perimeter = 2 * (length + width);

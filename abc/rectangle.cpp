@@ -49,6 +49,5 @@ int main(){ // Allman style
     cout <<"Perimeter = " << perimeter << endl;
     cout <<"Area = " << area << endl;
 
-    
     return 0;
 }
