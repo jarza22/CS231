@@ -2,5 +2,8 @@
     "C_Cpp.default.compilerPath": "/usr/bin/clang++",
     "code-runner.runInTerminal": true,
     "code-runner.saveAllFilesBeforeRun": false,
-    "code-runner.saveFileBeforeRun": true
+    "code-runner.saveFileBeforeRun": true,
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }
